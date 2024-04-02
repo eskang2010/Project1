@@ -40,3 +40,4 @@ int deleteElement(int L[], int n, int x) {
 	}
 
 	return move;
+}
